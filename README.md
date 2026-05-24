@@ -1,3 +1,4 @@
+<img width="1440" height="1440" alt="300" src="https://github.com/user-attachments/assets/88e52d60-5ef4-4559-8870-e2982c1b7eac" />
 # GitHub Copilot CLI
 
 The power of GitHub Copilot, now in your terminal.
